@@ -1,0 +1,13 @@
+﻿RegionID,Region,City,State,Territory
+1,Northeast,New York,NY,East
+2,Northeast,Boston,MA,East
+3,Southeast,Atlanta,GA,East
+4,Southeast,Miami,FL,East
+5,Midwest,Chicago,IL,Central
+6,Midwest,Minneapolis,MN,Central
+7,Southwest,Dallas,TX,Central
+8,Southwest,Phoenix,AZ,West
+9,West,Los Angeles,CA,West
+10,West,Seattle,WA,West
+11,Mountain,Denver,CO,West
+12,Mid-Atlantic,Washington,DC,East

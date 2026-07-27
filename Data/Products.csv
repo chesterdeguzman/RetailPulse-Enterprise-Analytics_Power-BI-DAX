@@ -1,0 +1,41 @@
+﻿ProductID,ProductName,Category,Subcategory,Brand,ListPrice,UnitCost,Status
+1001,Wireless Earbuds,Electronics,Tech Accessories,Brand B,277.21,118.51,Active
+1002,Smartwatch,Electronics,Tech Accessories,Brand C,132.91,64.72,Active
+1003,Bluetooth Speaker,Electronics,Tech Accessories,Brand D,315.64,196.65,Active
+1004,Mechanical Keyboard,Electronics,Tech Accessories,Brand E,377.3,168.31,Active
+1005,Webcam,Electronics,Tech Accessories,Brand F,191.08,81.96,Active
+1006,Portable SSD,Electronics,Tech Accessories,Brand G,110.58,63.21,Active
+1007,Noise-Canceling Headphones,Electronics,Tech Accessories,Brand H,34.51,16.55,Active
+1008,USB-C Hub,Electronics,Tech Accessories,Brand A,281.35,164.16,Active
+1009,Air Fryer,Home & Kitchen,Household,Brand B,111.29,66.42,Active
+1010,Coffee Maker,Home & Kitchen,Household,Brand C,344.53,145.37,Active
+1011,Blender,Home & Kitchen,Household,Brand D,343.1,215.96,Active
+1012,Cookware Set,Home & Kitchen,Household,Brand E,158.74,74.08,Active
+1013,Desk Lamp,Home & Kitchen,Household,Brand F,403.06,209.99,Active
+1014,Storage Organizer,Home & Kitchen,Household,Brand G,60.73,27.27,Active
+1015,Electric Kettle,Home & Kitchen,Household,Brand H,359.61,216.17,Active
+1016,Robot Vacuum,Home & Kitchen,Household,Brand A,343.62,219.55,Active
+1017,Yoga Mat,Fitness,Training,Brand B,236.35,168.27,Active
+1018,Adjustable Dumbbells,Fitness,Training,Brand C,173.9,101.84,Active
+1019,Resistance Bands,Fitness,Training,Brand D,352.44,213.42,Active
+1020,Fitness Tracker,Fitness,Training,Brand E,365.24,216.66,Active
+1021,Foam Roller,Fitness,Training,Brand F,303.01,131.43,Active
+1022,Running Belt,Fitness,Training,Brand G,114.25,57.9,Active
+1023,Kettlebell,Fitness,Training,Brand H,55.6,27.23,Active
+1024,Exercise Bike,Fitness,Training,Brand A,64.0,32.22,Active
+1025,Ergonomic Chair,Office,Workspace,Brand B,275.73,145.99,Active
+1026,Standing Desk,Office,Workspace,Brand C,170.59,82.37,Active
+1027,Monitor Arm,Office,Workspace,Brand D,129.72,90.93,Active
+1028,Notebook Set,Office,Workspace,Brand E,280.62,169.14,Active
+1029,Desk Organizer,Office,Workspace,Brand F,91.77,58.62,Active
+1030,Wireless Mouse,Office,Workspace,Brand G,88.71,47.36,Active
+1031,Laptop Stand,Office,Workspace,Brand H,415.85,254.5,Active
+1032,Task Light,Office,Workspace,Brand A,244.55,152.94,Active
+1033,Camping Tent,Outdoor,Recreation,Brand B,357.77,233.55,Active
+1034,Hiking Backpack,Outdoor,Recreation,Brand C,114.7,49.28,Active
+1035,Insulated Bottle,Outdoor,Recreation,Brand D,148.92,74.51,Active
+1036,Picnic Blanket,Outdoor,Recreation,Brand E,107.55,75.59,Active
+1037,Portable Grill,Outdoor,Recreation,Brand F,371.04,190.86,Active
+1038,Camping Lantern,Outdoor,Recreation,Brand G,283.55,152.75,Active
+1039,Travel Hammock,Outdoor,Recreation,Brand H,386.16,215.34,Active
+1040,Cooler Bag,Outdoor,Recreation,Brand A,128.89,63.67,Active
