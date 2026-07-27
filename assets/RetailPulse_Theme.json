@@ -1,0 +1,14 @@
+{
+  "name": "RetailPulse Enterprise",
+  "dataColors": [
+    "#2563EB",
+    "#10B981",
+    "#F59E0B",
+    "#7C3AED",
+    "#06B6D4",
+    "#EF4444"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#2563EB"
+}
